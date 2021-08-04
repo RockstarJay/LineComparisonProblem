@@ -1,8 +1,8 @@
 package com.jaybhagat.linecomparison;
 
 /*
- * class to model a line based on a point consisting of (x, y) co-ordinates using the Cartesian system
- * to calculate its length of the line
+ * class to model a two line based on a point consisting of (x, y) co-ordinates using the Cartesian system
+ * to calculate length of the two line to check the equality of these lines
  * @author com.jaybhagat
  */
 
